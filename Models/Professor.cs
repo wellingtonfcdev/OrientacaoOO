@@ -7,6 +7,10 @@ namespace OrientacaoOO.Models
 {
     public class Professor : Pessoa
     {
+        public Professor(string nome) : base(nome)
+        {
+            
+        }
         public double Salario { get; set; }
 
 //polimorfismo

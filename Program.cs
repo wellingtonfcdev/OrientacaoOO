@@ -1,9 +1,23 @@
 ﻿using OrientacaoOO.Models;
 
-Corrente c = new Corrente();
+Pessoa p1 = new Pessoa("Wellington");
+Aluno a1 = new Aluno("Joaquim");
 
-c.Creditar(500);
-c.ExibirSaldo();
+
+
+
+
+
+
+
+
+
+
+
+// Corrente c = new Corrente();
+
+// c.Creditar(500);
+// c.ExibirSaldo();
 
 
 
