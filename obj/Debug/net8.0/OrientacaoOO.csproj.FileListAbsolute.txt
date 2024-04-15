@@ -1,0 +1,15 @@
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\bin\Debug\net8.0\OrientacaoOO.exe
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\bin\Debug\net8.0\OrientacaoOO.deps.json
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\bin\Debug\net8.0\OrientacaoOO.runtimeconfig.json
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\bin\Debug\net8.0\OrientacaoOO.dll
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\bin\Debug\net8.0\OrientacaoOO.pdb
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\obj\Debug\net8.0\OrientacaoOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\obj\Debug\net8.0\OrientacaoOO.AssemblyInfoInputs.cache
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\obj\Debug\net8.0\OrientacaoOO.AssemblyInfo.cs
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\obj\Debug\net8.0\OrientacaoOO.csproj.CoreCompileInputs.cache
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\obj\Debug\net8.0\OrientacaoOO.sourcelink.json
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\obj\Debug\net8.0\OrientacaoOO.dll
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\obj\Debug\net8.0\refint\OrientacaoOO.dll
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\obj\Debug\net8.0\OrientacaoOO.pdb
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\obj\Debug\net8.0\OrientacaoOO.genruntimeconfig.cache
+C:\Users\wellington.costa\Documents\PROJETOS\C#\OrientacaoOO\obj\Debug\net8.0\ref\OrientacaoOO.dll
