@@ -1,10 +1,34 @@
 ﻿using OrientacaoOO.Models;
 
-ContaCorrente c1 = new ContaCorrente(123,1000);
+Aluno a1 = new Aluno();
+a1.Nome = "Wellington";
+a1.Idade = 39;
+a1.Email = "wellington@teste.com";
+a1.Nota = 9;
+a1.Apresentar();
 
-c1.ExibirSaldo();
-c1.Sacar(5000);
-c1.ExibirSaldo();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// ContaCorrente c1 = new ContaCorrente(123,1000);
+
+// c1.ExibirSaldo();
+// c1.Sacar(5000);
+// c1.ExibirSaldo();
 
 
 
