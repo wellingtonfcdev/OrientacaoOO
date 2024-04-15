@@ -7,6 +7,13 @@ a1.Email = "wellington@teste.com";
 a1.Nota = 9;
 a1.Apresentar();
 
+//Polimorfismo
+Professor p1 = new Professor();
+p1.Nome = "Wellington";
+p1.Idade = 29;
+p1.Salario = 2000;
+p1.Apresentar();
+
 
 
 

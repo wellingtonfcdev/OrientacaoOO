@@ -11,7 +11,7 @@ namespace OrientacaoOO.Models
         public int Idade { get; set; }
         public string  Email { get; set; }
 
-        public void Apresentar()
+        public virtual void Apresentar()
         {
             Console.WriteLine($"O nome é {Nome} e tem {Idade} anos de idade!");
         }
