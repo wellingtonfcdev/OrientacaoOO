@@ -7,6 +7,7 @@ namespace OrientacaoOO.Models
 {
     public class Professor : Pessoa
     {
+       
         public Professor(string nome) : base(nome)
         {
             
@@ -14,7 +15,8 @@ namespace OrientacaoOO.Models
         public double Salario { get; set; }
 
 //polimorfismo
-        public override void Apresentar()
+// o método com sealed (selada) não pode ser utilizado em outra classe
+        public sealed override void Apresentar()
         {
            Console.WriteLine($"Olá, meu nome é {Nome} tenho {Idade} nos e sou um professor e ganho {Salario}");
         }
