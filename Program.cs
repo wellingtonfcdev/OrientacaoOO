@@ -1,7 +1,37 @@
 ﻿using OrientacaoOO.Models;
+using OrientacaoOO.Interfaces;
 
-Computador c = new Computador();
-Console.WriteLine(c.ToString());
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Dividir(10,2));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Computador c = new Computador();
+// Console.WriteLine(c.ToString());
 
 
 
