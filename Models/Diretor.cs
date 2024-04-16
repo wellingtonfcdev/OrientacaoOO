@@ -11,9 +11,9 @@ namespace OrientacaoOO.Models
         {
             
         }
-        public override void Apresentar()
-        {
-           Console.WriteLine("Diretor");
-        }
+        // public override void Apresentar()
+        // {
+        //    Console.WriteLine("Diretor");
+        // }
     }
 }

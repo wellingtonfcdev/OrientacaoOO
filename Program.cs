@@ -1,7 +1,39 @@
 ﻿using OrientacaoOO.Models;
 
-Pessoa p1 = new Pessoa("Wellington");
-Aluno a1 = new Aluno("Joaquim");
+Computador c = new Computador();
+Console.WriteLine(c.ToString());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Pessoa p1 = new Pessoa("Wellington");
+// Aluno a1 = new Aluno("Joaquim");
 
 
 
